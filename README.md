@@ -17,9 +17,11 @@ Here are some useful documentations:
 ### Testing
 Since the project is considered from an untrustworthy source, it might get blocked for security reasons.
 If you receive the following error message upon building the project:
+
 ![Error Message](../resources/BuildingError.PNG?raw=true)
 
 Navigate to the main directory, where the **Form1.resx** file is located. Right click on the file and go to properties. Make sure the **Unlock** box is checked. (Shown is red box below)
+
 ![File Properties](../resources/FileProperties.PNG?raw=true)
 
 ## License
